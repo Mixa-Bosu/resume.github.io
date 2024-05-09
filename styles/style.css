@@ -22,6 +22,19 @@
 }
 
 
+* {
+    padding: 0; margin: 0;
+}
+.paragraph2 {
+    position: relative;
+    margin-top: calc((185vh - 56vw)/2);
+  /*  margin-left: 10px;*/
+   /* margin-top: 500px;*/
+    display: inline-block;
+    float:left;
+    width:100%;
+}
+
 *{
     padding: 0;
     margin: 0;
